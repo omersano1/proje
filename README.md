@@ -6,7 +6,7 @@ Bu proje, ASP.NET Core MVC kullanılarak hazırlanmış basit bir film kayıt si
 
 ## Özellikler
 
-- Film ekleme (adı, yönetmeni, yılı vs.)
+- Film ekleme (adı, türü, yılı vs.)
 - Film listesini tablo halinde gösterme
 - Fotoğraf yükleme (her filme özel)
 - Veritabanı ile kayıt alma
